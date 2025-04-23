@@ -10,6 +10,8 @@
 
 ## Hands-on Lab 준비 사항
 
+### 💻 개발 환경 체크리스트
+
 이번 Hands-on Lab을 원활하게 참여하시기 위해, 다음과 같은 시스템/소프트웨어 요구사항을 사전에 확인해주세요.  
 (**굵게 표기된 항목은 필수 사항입니다.**)
 
@@ -19,6 +21,11 @@
 - 디스크 여유 공간: 최소 30GB
 - **Android Studio 버전: Narwhal Canary 7 (필수)**  
   - Lab 세션 중 [Gemini Assistant의 이미지 첨부 기능](https://developer.android.com/studio/preview/features#gemini-image-attachments)을 사용하기 위해 해당 버전이 반드시 필요합니다.
+ 
+### 📱 테스트 디바이스 요건 (MediaPipe 지원 사양)
+- [Android SDK 버전 24 이상](https://ai.google.dev/edge/mediapipe/solutions/setup_android)
+- 최소 SDK 버전 이상의 Android 기기 Android Emulator 일부 태스크에는 작동하지 않을 수 있습니다.
+
 
 ## Android Studio Narwhal 및 JetBrains Toolbox 설치 가이드
 
