@@ -41,6 +41,8 @@
 
 ### Android Studio 설치 방법
 
+#### (권장) Jetbrains Toolbox로 설치
+
 1. Android Studio 설치 시, '기타 버전' 혹은 '사용 가능한 버전' 항목을 선택합니다.
 
    <img width="486" alt="Studio 설치 1" src="https://github.com/user-attachments/assets/72d58b7e-886f-42de-ab96-020d08ed2dce" />
@@ -48,3 +50,10 @@
 2. 목록 중에서 **Android Studio Narwhal Canary 버전**을 선택해 설치합니다.
 
    <img width="486" alt="Studio 설치 2" src="https://github.com/user-attachments/assets/f21a078b-5040-47e8-bafe-a515894d3ab9" />
+
+#### Android Studio 설치페이지에서 다운로드
+
+[Android Studio Preview](https://developer.android.com/studio/preview?hl=en) 페이지에서 Canary Build를 설치합니다.
+
+<img width="895" alt="스크린샷 2025-04-24 오전 1 28 30" src="https://github.com/user-attachments/assets/3582b924-f63f-4b35-b440-aaa93b75d677" />
+
