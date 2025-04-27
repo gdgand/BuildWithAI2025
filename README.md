@@ -7,8 +7,8 @@
 이 레포지토리는 2025년 4월 27일 (일), 한국에서 열리는 **Build with AI on Android** 행사 관련 정보를 담고 있습니다.
 
 # 핸즈온 하러가기 
-1. [MediaPipe 활용하기](/BuildwithAI_HandsOn/mediapipe_face_stylizer_android/index.html)
-2. [AI Android Pair Programming](/BuildwithAI_HandsOn/blob/main/ai_android_pair_programming/index.html)
+1. [MediaPipe 활용하기](https://gdgand.github.io/BuildWithAI2025/BuildwithAI_HandsOn/mediapipe_face_stylizer_android/index.html)
+2. [AI Android Pair Programming](https://gdgand.github.io/BuildWithAI2025/BuildwithAI_HandsOn/blob/main/ai_android_pair_programming/index.html)
 
 # 참가자 안내사항
 
